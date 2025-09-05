@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Vijay Chaudhary</h1>
+<h1 align="center">👋 Hi, I'm Vijay Kumar</h1>
 <h3 align="center">💻 Aspiring Full Stack Developer | Tech Explorer | Problem Solver 🚀</h3>
 
 <p align="center">
